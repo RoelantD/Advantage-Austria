@@ -1,8 +1,8 @@
 # Part 2 - Image Generation
 
-You can login with:
-roelant@xprtz.cloud
-g6d&6mUX4izRw03%i4f8
+You can login with: 
+roelant@xprtz.cloud 
+g6d&6mUX4izRw03%i4f8 
 
 Welcome to part 2 of this workshop, where we will interact with a text-to-image model, DALL-E 3. ChatGPT will figure out you want to generate images from the prompt, and will default to **dall-e-3** for generating images.
 
